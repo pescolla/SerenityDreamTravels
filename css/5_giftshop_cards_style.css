@@ -172,7 +172,7 @@
     gap: 40px;
     padding: 70px;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 #smart-box-list a {
